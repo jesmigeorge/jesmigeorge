@@ -1,5 +1,6 @@
 ### Hi there ,I'm Jesmi George 👋
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width=150 height=120 align="right"></img>
+- You can find me VIZZING most of the time!!
 - 🔭 I’m currently working on ...Data Structures and Algorithms
 - 🌱 I’m currently learning ...Python
 - 📫 How to reach me: ...[LinkedIn Profile](https://www.linkedin.com/in/jesmi-george/)
