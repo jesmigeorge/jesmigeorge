@@ -8,4 +8,4 @@
 - ⚡ Fun fact: ...Those who can't remember the past are condemned to repeat it-Dynamic Programming.
 
 Check out First Viz: [CLICK HERE](https://public.tableau.com/app/profile/jesmi.george/viz/AdidasSalesDashboard_17145801572380/Dashboard1)
-![image](https://github.com/jesmigeorge/jesmigeorge/assets/98166252/7bc48ded-145a-4441-a809-490025a60e72)
+
