@@ -7,5 +7,5 @@
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...Those who can't remember the past are condemned to repeat it-Dynamic Programming.
 
-Check out my First Viz: [CLICK HERE](https://public.tableau.com/app/profile/jesmi.george/viz/AdidasSalesDashboard_17145801572380/Dashboard1)
+Check out my Vizzes: [CLICK HERE](https://public.tableau.com/app/profile/jesmi.george/vizzes)
 
